@@ -1,19 +1,20 @@
 {
   "name": "Replace Deeds",
   "short_name": "Replace Deeds",
-  "description": "Premium Habit & Prayer Tracker",
+  "description": "Premium Habit Tracker - Build. Sustain. Transform. with Prayers, Game & Calculator",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
-  "background_color": "#0a0c10",
+  "background_color": "#0a0c12",
   "theme_color": "#00d4b4",
-  "orientation": "portrait",
+  "orientation": "portrait-primary",
+  "categories": ["productivity", "lifestyle", "religion"],
   "icons": [
     {
       "src": "icon-192.svg",
       "sizes": "192x192",
       "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
       "src": "icon-512.svg",
